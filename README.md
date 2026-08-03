@@ -1,4 +1,4 @@
-# Hariharan S
+# Hi, I'm Hariharan S
 
 Frontend Developer | React | JavaScript | HTML | CSS | SQL
 
@@ -40,6 +40,10 @@ A CRUD application for managing student records with a clean and user-friendly i
 
 **Website**  
 https://hari-0208.github.io/MY-PORTFOLIO/
+
+## 📄 Resume
+
+[View My Resume](./Hariharan_S_Resume.pdf)
 
 ## 📫 Contact
 
