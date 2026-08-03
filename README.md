@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hariharan S
 
-<!--
-**hari-0208/hari-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React | JavaScript | HTML | CSS | SQL
 
-Here are some ideas to get you started:
+## 👨‍💻 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Developer with a Bachelor's degree in Computer Science. Skilled in HTML, CSS, JavaScript, React, and SQL. Interested in building responsive and user-friendly web applications. Currently seeking entry-level Frontend Developer and Software Developer opportunities.
+
+## 🛠 Technical Skills
+
+### Languages
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- SQL
+
+### Frameworks & Libraries
+- React
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+## 🚀 Featured Projects
+
+### Portfolio Website
+A responsive personal portfolio showcasing my projects, technical skills, and contact information.
+
+### React To-Do List
+A task management application with add, edit, delete, and filter functionality.
+
+### Currency Converter
+A responsive currency converter application built using JavaScript.
+
+### Student Management System
+A CRUD application for managing student records with a clean and user-friendly interface.
+
+## 🌐 Portfolio
+
+**Website**  
+https://hari-0208.github.io/MY-PORTFOLIO/
+
+## 📫 Contact
+
+**LinkedIn**  
+https://linkedin.com/in/thehariharan02
+
+**GitHub**  
+https://github.com/hari-0208
+
+---
+
+*Open to Frontend Developer, React Developer, and Software Developer opportunities.*
