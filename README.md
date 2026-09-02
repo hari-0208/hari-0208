@@ -39,7 +39,7 @@ A CRUD application for managing student records with a clean and user-friendly i
 ## 🌐 Portfolio
 
 **Website**  
-https://hari-0208.github.io/MY-PORTFOLIO/
+https://my-portfolio-a5p2.vercel.app  
 
 ## 📄 Resume
 
